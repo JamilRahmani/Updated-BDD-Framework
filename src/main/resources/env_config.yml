@@ -1,0 +1,8 @@
+ui:
+  browser: chrome
+  headless: true
+  url: https://tek-insurance.azurewebsites.net/
+db:
+  url: jdbc:mysql://tek-instrance-db.mysql.database.azure.com:3306/tek_insurance_app?useSSL=true&requireSSL=false
+  db_username: tek_db_admin
+  db_password: ADMIN_MAY_2022
